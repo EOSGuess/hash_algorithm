@@ -1,4 +1,5 @@
 # hash_algorithm
+1. 算法
 ```
    public int hashCode(value) {
         int h = hash;
@@ -12,3 +13,5 @@
         return h;
    }
 ```
+2. 如何计算
+
