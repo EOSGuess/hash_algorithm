@@ -1,5 +1,5 @@
 # hash_algorithm
-(```)
+```
    public int hashCode(value) {
         int h = hash;
         if (h == 0 && value.length > 0) {
@@ -11,4 +11,4 @@
         }
         return h;
    }
-(```)
+```
