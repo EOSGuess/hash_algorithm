@@ -1,6 +1,6 @@
 # hash_algorithm
 ---
-public int hashCode(value) {
+   public int hashCode(value) {
         int h = hash;
         if (h == 0 && value.length > 0) {
             char val[] = value;
@@ -11,4 +11,4 @@ public int hashCode(value) {
             hash = h;
         }
         return h;
-}
+   }
